@@ -21,3 +21,4 @@ PRODUCT_COPY_FILES := \
     vendor/asus/deb/proprietary/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so:asus \
     vendor/asus/deb/proprietary/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so:asus \
     vendor/asus/deb/media/bootanimation.zip:system/media/bootanimation.zip:asus \
+    vendor/asus/deb/init.d/.placeholder:system/etc/init.d/.placeholder:asus \
