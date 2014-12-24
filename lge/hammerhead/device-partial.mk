@@ -48,4 +48,4 @@ PRODUCT_COPY_FILES := \
     vendor/lge/hammerhead/proprietary/libvss_nv_idl.so:system/vendor/lib/libvss_nv_idl.so:lge \
     vendor/lge/hammerhead/proprietary/libvss_nv_iface.so:system/vendor/lib/libvss_nv_iface.so:lge \
     vendor/lge/hammerhead/media/bootanimation.zip:system/media/bootanimation.zip:lge \
-    vendor/lge/hammerhead/init.d/.placeholder:system/etc/init.d/.placeholder:lge \
+    vendor/lge/hammerhead/init.d/.placeholder:system/etc/init.d/./placeholder:lge \
