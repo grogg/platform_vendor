@@ -18,4 +18,5 @@ $(call inherit-product-if-exists, vendor/asus/$(LOCAL_STEM))
 $(call inherit-product-if-exists, vendor/broadcom/$(LOCAL_STEM))
 $(call inherit-product-if-exists, vendor/qcom/$(LOCAL_STEM))
 $(call inherit-product-if-exists, vendor/google_apps/device-partial.mk)
+$(call inherit-product-if-exists, vendor/extras/device-partial.mk)
 

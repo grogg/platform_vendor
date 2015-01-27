@@ -47,5 +47,5 @@ PRODUCT_COPY_FILES := \
     vendor/lge/hammerhead/proprietary/libvss_nv_core.so:system/vendor/lib/libvss_nv_core.so:lge \
     vendor/lge/hammerhead/proprietary/libvss_nv_idl.so:system/vendor/lib/libvss_nv_idl.so:lge \
     vendor/lge/hammerhead/proprietary/libvss_nv_iface.so:system/vendor/lib/libvss_nv_iface.so:lge \
-    vendor/lge/hammerhead/media/bootanimation.zip:system/media/bootanimation.zip:lge \
-    vendor/lge/hammerhead/init.d/99fstrim:system/etc/init.d/99fstrim:lge \
+    vendor/extras/media/bootanimation_1080.zip:system/media/bootanimation.zip:extras \
+

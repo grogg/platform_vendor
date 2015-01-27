@@ -18,4 +18,5 @@ LOCAL_STEM := hammerhead/BoardConfigPartial.mk
 -include vendor/lge/$(LOCAL_STEM)
 -include vendor/qcom/$(LOCAL_STEM)
 -include vendor/google_apps/BoardConfigPartial.mk
+-include vendor/extras/BoardConfigPartial.mk
 
