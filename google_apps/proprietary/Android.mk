@@ -45,6 +45,17 @@ LOCAL_MODULE_SUFFIX := $(COMMON_ANDROID_PACKAGE_SUFFIX)
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
+LOCAL_MODULE := GoogleCalendar
+LOCAL_SRC_FILES := system/app/GoogleCalendar/GoogleCalendar.apk
+LOCAL_MODULE_PATH := $(TARGET_OUT_APPS)
+LOCAL_MODULE_CLASS := APPS
+LOCAL_MODULE_OWNER := google_apps
+LOCAL_MODULE_TAGS := optional
+LOCAL_CERTIFICATE := PRESIGNED
+LOCAL_MODULE_SUFFIX := $(COMMON_ANDROID_PACKAGE_SUFFIX)
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
 LOCAL_MODULE := GoogleCalendarSyncAdapter
 LOCAL_SRC_FILES := system/app/GoogleCalendarSyncAdapter/GoogleCalendarSyncAdapter.apk
 LOCAL_MODULE_PATH := $(TARGET_OUT_APPS)

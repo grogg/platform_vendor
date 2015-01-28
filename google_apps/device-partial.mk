@@ -94,6 +94,7 @@ PRODUCT_PACKAGES += \
     ConfigUpdater \
     Exchange3Google \
     FaceLock \
+    GoogleCalendar \
     GoogleCalendarSyncAdapter \
     GoogleCamera \
     GoogleContactsSyncAdapter \
