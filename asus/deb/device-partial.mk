@@ -21,4 +21,4 @@ PRODUCT_COPY_FILES := \
     vendor/asus/deb/proprietary/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so:asus \
     vendor/asus/deb/proprietary/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so:asus \
     vendor/extras/media/bootanimation_1200.zip:system/media/bootanimation.zip:extras \
-    vendor/extras/etc/init.d/99fstrim:system/etc/init.d/99fstrim:extras \
+
