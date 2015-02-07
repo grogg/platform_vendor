@@ -18,6 +18,7 @@ PRODUCT_COPY_FILES += \
     vendor/google_apps/proprietary/system/lib/libAppDataSearch.so:system/lib/libAppDataSearch.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libconscrypt_gmscore_jni.so:system/lib/libconscrypt_gmscore_jni.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libcrashreporter.so:system/lib/libcrashreporter.so:google_apps \
+vendor/google_apps/proprietary/system/lib/libcronet.so:system/lib/libcronet.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libfacelock_jni.so:system/lib/libfacelock_jni.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libfilterpack_facedetect.so:system/lib/libfilterpack_facedetect.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libgames_rtmp_jni.so:system/lib/libgames_rtmp.jni.so:google_apps \
