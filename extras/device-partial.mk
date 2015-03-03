@@ -6,4 +6,5 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     AdAway \
-    XDA-One
+    XDA-One \
+    Sound_Recorder
