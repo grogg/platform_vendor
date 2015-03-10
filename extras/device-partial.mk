@@ -8,4 +8,5 @@ PRODUCT_PACKAGES += \
     AdAway \
     XDA-One \
     Sound_Recorder \
-    Layers
+    Layers \
+    MiXplorer
