@@ -7,10 +7,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     AdAway \
     XDA-One \
-<<<<<<< HEAD
     Sound_Recorder \
-    Layers \
     MiXplorer
-=======
-    Sound_Recorder
->>>>>>> parent of f43378f... Layers: add LayersManager
+
