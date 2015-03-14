@@ -27,7 +27,7 @@ PRODUCT_COPY_FILES += \
     vendor/google_apps/proprietary/system/lib/libgcam_swig_jni.so:system/lib/libgcam_swig_jni.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libgcastv2_base.so:system/lib/libgcastv2_base.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libgcastv2_support.so:system/lib/libgcastv2_support.so:google_apps \
-    vendor/google_apps/proprietary/system/lib/libgiftranscode.so:system/lib/libgiftranscode.so:google_apps
+    vendor/google_apps/proprietary/system/lib/libgiftranscode.so:system/lib/libgiftranscode.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libgmscore.so:system/lib/libgmscore.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libgms-ocrclient.so:system/lib/libgms-ocrclient.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libgoogle_hotword_jni.so:system/lib/libgoogle_hotword_jni.so:google_apps \
