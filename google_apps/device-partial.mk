@@ -52,6 +52,7 @@ PRODUCT_COPY_FILES += \
     vendor/google_apps/proprietary/system/lib/libspeexwrapper_ub.210303120.so:system/lib/libspeexwrapper_ub.210303120.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libspeexwrapper_ub.210303130.so:system/lib/libspeexwrapper_ub.210303130.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libsslwrapper_jni.so:system/lib/libsslwrapper_jni.so:google_apps \
+    vendor/google_apps/proprietary/system/lib/libvariablespeed.so:system/lib/libvariablespeed.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libvcdecoder_jni.so:system/lib/libvcdecoder_jni.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libWhisper.so:system/lib/libWhisper.so:google_apps \
     vendor/google_apps/proprietary/system/usr/srec/en-US/c_fst:system/usr/srec/en-US/c_fst:google_apps \
@@ -114,5 +115,4 @@ PRODUCT_PACKAGES += \
     GooglePartnerSetup \
     GoogleServicesFramework \
     Phonesky \
-    SetupWizard \
     Velvet
