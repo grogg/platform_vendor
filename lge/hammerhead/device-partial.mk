@@ -49,6 +49,7 @@ PRODUCT_COPY_FILES := \
     vendor/lge/hammerhead/proprietary/libvss_nv_iface.so:system/vendor/lib/libvss_nv_iface.so:lge \
 
 PRODUCT_PACKAGES += \
+    qcrilmsgtunnel \
     SetupWizard \
     shutdownlistener \
     TimeService
