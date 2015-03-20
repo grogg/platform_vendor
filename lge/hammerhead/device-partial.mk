@@ -50,7 +50,6 @@ PRODUCT_COPY_FILES := \
 
 PRODUCT_PACKAGES += \
     qcrilmsgtunnel \
-    SetupWizard \
     shutdownlistener \
     TimeService
 

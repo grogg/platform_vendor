@@ -17,8 +17,6 @@ PRODUCT_COPY_FILES += \
     vendor/google_apps/proprietary/system/framework/com.google.widevine.software.drm.jar:system/framework/com.google.widevine.software.drm.jar:google_apps \
     vendor/google_apps/proprietary/system/lib/libAppDataSearch.so:system/lib/libAppDataSearch.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libconscrypt_gmscore_jni.so:system/lib/libconscrypt_gmscore_jni.so:google_apps \
-    vendor/google_apps/proprietary/system/lib/libcrashreporter.so:system/lib/libcrashreporter.so:google_apps \
-    vendor/google_apps/proprietary/system/lib/libcronet.so:system/lib/libcronet.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libfacelock_jni.so:system/lib/libfacelock_jni.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libfilterpack_facedetect.so:system/lib/libfilterpack_facedetect.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libframesequence.so:system/lib/libframesequence.so:google_apps \
@@ -44,13 +42,8 @@ PRODUCT_COPY_FILES += \
     vendor/google_apps/proprietary/system/lib/libpatts_engine_jni_api_ub.210303120.so:system/lib/libpatts_engine_jni_api_ub.210303120.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libpatts_engine_jni_api_ub.210303130.so:system/lib/libpatts_engine_jni_api_ub.210303130.so:google_apps \
     vendor/google_apps/proprietary/system/lib/librefocus.so:system/lib/librefocus.so:google_apps \
-    vendor/google_apps/proprietary/system/lib/librs.layered_filter_f32.so:system/lib/librs.layered_filter_f32.so:google_apps \
-    vendor/google_apps/proprietary/system/lib/librs.layered_filter_fast_f32.so:system/lib/librs.layered_filter_fast_f32.so:google_apps \
-    vendor/google_apps/proprietary/system/lib/librsjni.so:system/lib/librsjni.so:google_apps \
-    vendor/google_apps/proprietary/system/lib/libRSSupport.so:system/lib/libRSSupport.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libspeexwrapper.so:system/lib/libspeexwrapper.so:google_apps \
-    vendor/google_apps/proprietary/system/lib/libspeexwrapper_ub.210303120.so:system/lib/libspeexwrapper_ub.210303120.so:google_apps \
-    vendor/google_apps/proprietary/system/lib/libspeexwrapper_ub.210303130.so:system/lib/libspeexwrapper_ub.210303130.so:google_apps \
+    vendor/google_apps/proprietary/system/lib/libspeexresampler.so:system/lib/libspeexresampler.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libsslwrapper_jni.so:system/lib/libsslwrapper_jni.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libvariablespeed.so:system/lib/libvariablespeed.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libvcdecoder_jni.so:system/lib/libvcdecoder_jni.so:google_apps \
@@ -115,4 +108,5 @@ PRODUCT_PACKAGES += \
     GooglePartnerSetup \
     GoogleServicesFramework \
     Phonesky \
+    SetupWizard \
     Velvet

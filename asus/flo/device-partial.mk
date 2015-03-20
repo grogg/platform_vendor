@@ -21,5 +21,4 @@ PRODUCT_COPY_FILES := \
     vendor/asus/flo/proprietary/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so:asus \
 
 PRODUCT_PACKAGES += \
-    SetupWizard2
 
