@@ -17,6 +17,7 @@ PRODUCT_COPY_FILES += \
     vendor/google_apps/proprietary/system/framework/com.google.widevine.software.drm.jar:system/framework/com.google.widevine.software.drm.jar:google_apps \
     vendor/google_apps/proprietary/system/lib/libAppDataSearch.so:system/lib/libAppDataSearch.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libconscrypt_gmscore_jni.so:system/lib/libconscrypt_gmscore_jni.so:google_apps \
+    vendor/google_apps/proprietary/system/lib/libcronet.so:system/lib/libcronet.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libfacelock_jni.so:system/lib/libfacelock_jni.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libfilterpack_facedetect.so:system/lib/libfilterpack_facedetect.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libframesequence.so:system/lib/libframesequence.so:google_apps \
@@ -38,6 +39,7 @@ PRODUCT_COPY_FILES += \
     vendor/google_apps/proprietary/system/lib/libjpeg.so:system/lib/libjpeg.so:google_apps \
     vendor/google_apps/proprietary/system/lib/liblightcycle.so:system/lib/liblightcycle.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libnativehelper_compat_libc++.so:system/lib/libnativehelper_compat_libc++.so:google_apps \
+    vendor/google_apps/proprietary/system/lib/libNearbyApp.so:system/lib/libNearbyApp.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libpatts_engine_jni_api.so:system/lib/libpatts_engine_jni_api.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libpatts_engine_jni_api_ub.210303120.so:system/lib/libpatts_engine_jni_api_ub.210303120.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libpatts_engine_jni_api_ub.210303130.so:system/lib/libpatts_engine_jni_api_ub.210303130.so:google_apps \
