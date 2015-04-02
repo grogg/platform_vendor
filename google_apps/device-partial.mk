@@ -96,12 +96,10 @@ PRODUCT_PACKAGES += \
     Exchange3Google \
     FaceLock \
     GoogleCalendar \
-    GoogleCalendarSyncAdapter \
     GoogleCamera \
     GoogleContactsSyncAdapter \
     GoogleHome \
     QuickOffice \
-    CalendarProvider \
     GmsCore \
     GoogleBackupTransport \
     GoogleFeedback \
