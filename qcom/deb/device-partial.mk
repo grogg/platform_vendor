@@ -40,7 +40,6 @@ PRODUCT_COPY_FILES := \
     vendor/qcom/deb/proprietary/sensors.qcom:system/bin/sensors.qcom:qcom \
     vendor/qcom/deb/proprietary/thermald:system/bin/thermald:qcom \
     vendor/qcom/deb/proprietary/usbhub:system/bin/usbhub:qcom \
-    vendor/qcom/deb/proprietary/DxHDCP.cfg:system/etc/DxHDCP.cfg:qcom \
     vendor/qcom/deb/proprietary/usbhub_init:system/bin/usbhub_init:qcom \
     vendor/qcom/deb/proprietary/vidc_1080p.fw:system/etc/firmware/vidc_1080p.fw:qcom \
     vendor/qcom/deb/proprietary/vidc.b00:system/etc/firmware/vidc.b00:qcom \
@@ -87,7 +86,6 @@ PRODUCT_COPY_FILES := \
     vendor/qcom/deb/proprietary/libI420colorconvert.so:system/lib/libI420colorconvert.so:qcom \
     vendor/qcom/deb/proprietary/libidl.so:system/lib/libidl.so:qcom \
     vendor/qcom/deb/proprietary/libllvm-qcom.so:system/vendor/lib/libllvm-qcom.so:qcom \
-    vendor/qcom/deb/proprietary/libbccQTI.so:system/vendor/lib/libbccQTI.so:qcom \
     vendor/qcom/deb/proprietary/libloc_core.so:system/lib/libloc_core.so:qcom \
     vendor/qcom/deb/proprietary/libloc_eng.so:system/lib/libloc_eng.so:qcom \
     vendor/qcom/deb/proprietary/libmm-abl.so:system/lib/libmm-abl.so:qcom \
