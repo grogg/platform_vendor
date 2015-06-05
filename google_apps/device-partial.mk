@@ -44,6 +44,9 @@ PRODUCT_COPY_FILES += \
     vendor/google_apps/proprietary/system/lib/libpatts_engine_jni_api_ub.210303120.so:system/lib/libpatts_engine_jni_api_ub.210303120.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libpatts_engine_jni_api_ub.210303130.so:system/lib/libpatts_engine_jni_api_ub.210303130.so:google_apps \
     vendor/google_apps/proprietary/system/lib/librefocus.so:system/lib/librefocus.so:google_apps \
+    vendor/google_apps/proprietary/system/lib/librs.layered_filter_fast_f32.so:system/lib/librs.layered_filter_fast_f32.so:google_apps \
+    vendor/google_apps/proprietary/system/lib/librsjni.so:system/lib/librsjni.so:google_apps \
+    vendor/google_apps/proprietary/system/lib/libRSSupport.so:system/lib/libRSSupport.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libspeexwrapper.so:system/lib/libspeexwrapper.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libspeexresampler.so:system/lib/libspeexresampler.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libsslwrapper_jni.so:system/lib/libsslwrapper_jni.so:google_apps \
