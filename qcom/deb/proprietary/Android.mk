@@ -14,7 +14,7 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),deb)
+ifeq ($(TARGET_DEVICE),flo)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := libacdbloader
