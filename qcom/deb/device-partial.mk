@@ -41,6 +41,7 @@ PRODUCT_COPY_FILES := \
     vendor/qcom/deb/proprietary/thermald:system/bin/thermald:qcom \
     vendor/qcom/deb/proprietary/usbhub:system/bin/usbhub:qcom \
     vendor/qcom/deb/proprietary/usbhub_init:system/bin/usbhub_init:qcom \
+    vendor/qcom/deb/proprietary/DxHDCP.cfg:system/vendor/firmware/etc/DxHDCP.cfg:qcom \
     vendor/qcom/deb/proprietary/vidc_1080p.fw:system/etc/firmware/vidc_1080p.fw:qcom \
     vendor/qcom/deb/proprietary/vidc.b00:system/etc/firmware/vidc.b00:qcom \
     vendor/qcom/deb/proprietary/vidc.b01:system/etc/firmware/vidc.b01:qcom \
@@ -173,6 +174,7 @@ PRODUCT_COPY_FILES := \
     vendor/qcom/deb/proprietary/libgeofence.so:system/vendor/lib/libgeofence.so:qcom \
     vendor/qcom/deb/proprietary/libimage-jpeg-enc-omx-comp.so:system/vendor/lib/libimage-jpeg-enc-omx-comp.so:qcom \
     vendor/qcom/deb/proprietary/libimage-omx-common.so:system/vendor/lib/libimage-omx-common.so:qcom \
+    vendor/qcom/deb/proprietary/libbccQTI.so:system/vendor/lib/libbccQTI.so:qcom \
     vendor/qcom/deb/proprietary/libizat_core.so:system/vendor/lib/libizat_core.so:qcom \
     vendor/qcom/deb/proprietary/libloc_api_v02.so:system/vendor/lib/libloc_api_v02.so:qcom \
     vendor/qcom/deb/proprietary/libloc_ds_api.so:system/vendor/lib/libloc_ds_api.so:qcom \
