@@ -38,6 +38,7 @@ PRODUCT_COPY_FILES += \
     vendor/google_apps/proprietary/system/lib/libjni_jpegutil.so:system/lib/libjni_jpegutil.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libjni_tinyplanet.so:system/lib/libjni_tinyplanet.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libjpeg.so:system/lib/libjpeg.so:google_apps \
+    vendor/google_apps/proprietary/system/lib/libleveldbjni.so:system/lib/libleveldbjni.so:google_apps \
     vendor/google_apps/proprietary/system/lib/liblightcycle.so:system/lib/liblightcycle.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libnativehelper_compat_libc++.so:system/lib/libnativehelper_compat_libc++.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libNearbyApp.so:system/lib/libNearbyApp.so:google_apps \
