@@ -33,7 +33,7 @@ PRODUCT_COPY_FILES += \
     vendor/google_apps/proprietary/system/lib/libchromium_android_linker.so:system/lib/libchromium_android_linker.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libconscrypt_gmscore_jni.so:system/lib/libconscrypt_gmscore_jni.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libconsumerphotoeditor_native.so:system/lib/libconsumerphotoeditor_native.so:google_apps \
-    vendor/google_apps/proprietary/system/lib/libcrashreporter.so:system/lib/libcrashreporter.so:google_apps \
+    vendor/google_apps/proprietary/system/lib/libcrashreporterer.so:system/lib/libcrashreporterer.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libcronet.so:system/lib/libcronet.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libdirect-audio.so:system/lib/libdirect-audio.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libfacelock_jni.so:system/lib/libfacelock_jni.so:google_apps \
