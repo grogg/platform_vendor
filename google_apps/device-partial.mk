@@ -125,6 +125,7 @@ PRODUCT_PACKAGES += \
     GoogleChrome \
     GoogleContactsSyncAdapter \
     GoogleHome \
+    GoogleMusic \
     GooglePhotos \
     QuickOffice \
     GmsCore \
