@@ -18,7 +18,7 @@ PRODUCT_COPY_FILES += \
     vendor/google_apps/proprietary/system/lib/libAppDataSearch.so:system/lib/libAppDataSearch.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libchrome.1847.114.so:system/lib/libchrome.1847.114.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libchrome.1916.122.so:system/lib/libchrome.1916.122.so:google_apps \
-    vendor/google_apps/proprietary/system/lib/libchrome.1916.13.so:system/lib/libchrome.1916.13.so:google_apps \
+    vendor/google_apps/proprietary/system/lib/libchrome.1916.138.so:system/lib/libchrome.1916.138.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libchrome.1916.141.so:system/lib/libchrome.1916.141.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libchrome.1985.122.so:system/lib/libchrome.1985.122.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libchrome.1985.128.so:system/lib/libchrome.1985.128.so:google_apps \
