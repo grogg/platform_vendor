@@ -16,6 +16,21 @@ PRODUCT_COPY_FILES += \
     vendor/google_apps/proprietary/system/framework/com.google.android.media.effects.jar:system/framework/com.google.android.media.effects.jar:google_apps \
     vendor/google_apps/proprietary/system/framework/com.google.widevine.software.drm.jar:system/framework/com.google.widevine.software.drm.jar:google_apps \
     vendor/google_apps/proprietary/system/lib/libAppDataSearch.so:system/lib/libAppDataSearch.so:google_apps \
+    vendor/google_apps/proprietary/system/lib/libchrome.1847.114.so:system/lib/libchrome.1847.114.so:google_apps \
+    vendor/google_apps/proprietary/system/lib/libchrome.1916.122.so:system/lib/libchrome.1916.122.so:google_apps \
+    vendor/google_apps/proprietary/system/lib/libchrome.1916.13.so:system/lib/libchrome.1916.13.so:google_apps \
+    vendor/google_apps/proprietary/system/lib/libchrome.1916.141.so:system/lib/libchrome.1916.141.so:google_apps \
+    vendor/google_apps/proprietary/system/lib/libchrome.1985.122.so:system/lib/libchrome.1985.122.so:google_apps \
+    vendor/google_apps/proprietary/system/lib/libchrome.1985.128.so:system/lib/libchrome.1985.128.so:google_apps \
+    vendor/google_apps/proprietary/system/lib/libchrome.1985.131.so:system/lib/libchrome.1985.131.so:google_apps \
+    vendor/google_apps/proprietary/system/lib/libchrome.1985.135.so:system/lib/libchrome.1985.135.so:google_apps \
+    vendor/google_apps/proprietary/system/lib/libchrome.2062.117.so:system/lib/libchrome.2062.117.so:google_apps \
+    vendor/google_apps/proprietary/system/lib/libchrome.2125.102.so:system/lib/libchrome.2125.102.so:google_apps \
+    vendor/google_apps/proprietary/system/lib/libchrome.2125.114.so:system/lib/libchrome.2125.114.so:google_apps \
+    vendor/google_apps/proprietary/system/lib/libchrome.2171.37.so:system/lib/libchrome.2171.37.so:google_apps \
+    vendor/google_apps/proprietary/system/lib/libchrome.2171.59.so:system/lib/libchrome.2171.59.so:google_apps \
+    vendor/google_apps/proprietary/system/lib/libchromeview.so:system/lib/libchromeview.so:google_apps \
+    vendor/google_apps/proprietary/system/lib/libchromium_android_linker.so:system/lib/libchromium_android_linker.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libconscrypt_gmscore_jni.so:system/lib/libconscrypt_gmscore_jni.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libcronet.so:system/lib/libcronet.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libdirect-audio.so:system/lib/libdirect-audio.so:google_apps \
@@ -103,6 +118,7 @@ PRODUCT_PACKAGES += \
     FaceLock \
     GoogleCalendar \
     GoogleCamera \
+    GoogleChrome \
     GoogleContactsSyncAdapter \
     GoogleHome \
     QuickOffice \
