@@ -32,9 +32,12 @@ PRODUCT_COPY_FILES += \
     vendor/google_apps/proprietary/system/lib/libchromeview.so:system/lib/libchromeview.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libchromium_android_linker.so:system/lib/libchromium_android_linker.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libconscrypt_gmscore_jni.so:system/lib/libconscrypt_gmscore_jni.so:google_apps \
+    vendor/google_apps/proprietary/system/lib/libconsumerphotoeditor_native.so:system/lib/libconsumerphotoeditor_native.so:google_apps \
+    vendor/google_apps/proprietary/system/lib/libcrashreporter.so:system/lib/libcrashreporter.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libcronet.so:system/lib/libcronet.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libdirect-audio.so:system/lib/libdirect-audio.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libfacelock_jni.so:system/lib/libfacelock_jni.so:google_apps \
+    vendor/google_apps/proprietary/system/lib/libfilterframework_jni.so:system/lib/libfilterframework_jni.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libfilterpack_facedetect.so:system/lib/libfilterpack_facedetect.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libframesequence.so:system/lib/libframesequence.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libgames_rtmp_jni.so:system/lib/libgames_rtmp.jni.so:google_apps \
@@ -55,6 +58,7 @@ PRODUCT_COPY_FILES += \
     vendor/google_apps/proprietary/system/lib/libjpeg.so:system/lib/libjpeg.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libleveldbjni.so:system/lib/libleveldbjni.so:google_apps \
     vendor/google_apps/proprietary/system/lib/liblightcycle.so:system/lib/liblightcycle.so:google_apps \
+    vendor/google_apps/proprietary/system/lib/libmoviemaker-jni.so:system/lib/libmoviemaker-jni.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libnativehelper_compat_libc++.so:system/lib/libnativehelper_compat_libc++.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libNearbyApp.so:system/lib/libNearbyApp.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libpatts_engine_jni_api.so:system/lib/libpatts_engine_jni_api.so:google_apps \
@@ -121,6 +125,7 @@ PRODUCT_PACKAGES += \
     GoogleChrome \
     GoogleContactsSyncAdapter \
     GoogleHome \
+    GooglePhotos \
     QuickOffice \
     GmsCore \
     GoogleBackupTransport \
