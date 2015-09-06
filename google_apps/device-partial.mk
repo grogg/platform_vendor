@@ -17,6 +17,7 @@ PRODUCT_COPY_FILES += \
     vendor/google_apps/proprietary/system/framework/com.google.widevine.software.drm.jar:system/framework/com.google.widevine.software.drm.jar:google_apps \
     vendor/google_apps/proprietary/system/lib/libAppDataSearch.so:system/lib/libAppDataSearch.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libconscrypt_gmscore_jni.so:system/lib/libconscrypt_gmscore_jni.so:google_apps \
+    vendor/google_apps/proprietary/system/lib/libcronet.so:system/lib/libcronet.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libdirect-audio.so:system/lib/libdirect-audio.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libfacelock_jni.so:system/lib/libfacelock_jni.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libfilterpack_facedetect.so:system/lib/libfilterpack_facedetect.so:google_apps \
