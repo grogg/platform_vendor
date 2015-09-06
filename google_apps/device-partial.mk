@@ -16,36 +16,15 @@ PRODUCT_COPY_FILES += \
     vendor/google_apps/proprietary/system/framework/com.google.android.media.effects.jar:system/framework/com.google.android.media.effects.jar:google_apps \
     vendor/google_apps/proprietary/system/framework/com.google.widevine.software.drm.jar:system/framework/com.google.widevine.software.drm.jar:google_apps \
     vendor/google_apps/proprietary/system/lib/libAppDataSearch.so:system/lib/libAppDataSearch.so:google_apps \
-    vendor/google_apps/proprietary/system/lib/libchrome.1847.114.so:system/lib/libchrome.1847.114.so:google_apps \
-    vendor/google_apps/proprietary/system/lib/libchrome.1916.122.so:system/lib/libchrome.1916.122.so:google_apps \
-    vendor/google_apps/proprietary/system/lib/libchrome.1916.138.so:system/lib/libchrome.1916.138.so:google_apps \
-    vendor/google_apps/proprietary/system/lib/libchrome.1916.141.so:system/lib/libchrome.1916.141.so:google_apps \
-    vendor/google_apps/proprietary/system/lib/libchrome.1985.122.so:system/lib/libchrome.1985.122.so:google_apps \
-    vendor/google_apps/proprietary/system/lib/libchrome.1985.128.so:system/lib/libchrome.1985.128.so:google_apps \
-    vendor/google_apps/proprietary/system/lib/libchrome.1985.131.so:system/lib/libchrome.1985.131.so:google_apps \
-    vendor/google_apps/proprietary/system/lib/libchrome.1985.135.so:system/lib/libchrome.1985.135.so:google_apps \
-    vendor/google_apps/proprietary/system/lib/libchrome.2062.117.so:system/lib/libchrome.2062.117.so:google_apps \
-    vendor/google_apps/proprietary/system/lib/libchrome.2125.102.so:system/lib/libchrome.2125.102.so:google_apps \
-    vendor/google_apps/proprietary/system/lib/libchrome.2125.114.so:system/lib/libchrome.2125.114.so:google_apps \
-    vendor/google_apps/proprietary/system/lib/libchrome.2171.37.so:system/lib/libchrome.2171.37.so:google_apps \
-    vendor/google_apps/proprietary/system/lib/libchrome.2171.59.so:system/lib/libchrome.2171.59.so:google_apps \
-    vendor/google_apps/proprietary/system/lib/libchromeview.so:system/lib/libchromeview.so:google_apps \
-    vendor/google_apps/proprietary/system/lib/libchromium_android_linker.so:system/lib/libchromium_android_linker.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libconscrypt_gmscore_jni.so:system/lib/libconscrypt_gmscore_jni.so:google_apps \
-    vendor/google_apps/proprietary/system/lib/libconsumerphotoeditor_native.so:system/lib/libconsumerphotoeditor_native.so:google_apps \
-    vendor/google_apps/proprietary/system/lib/libcrashreporterer.so:system/lib/libcrashreporterer.so:google_apps \
-    vendor/google_apps/proprietary/system/lib/libcronet.so:system/lib/libcronet.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libdirect-audio.so:system/lib/libdirect-audio.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libfacelock_jni.so:system/lib/libfacelock_jni.so:google_apps \
-    vendor/google_apps/proprietary/system/lib/libfilterframework_jni.so:system/lib/libfilterframework_jni.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libfilterpack_facedetect.so:system/lib/libfilterpack_facedetect.so:google_apps \
-    vendor/google_apps/proprietary/system/lib/libframesequence.so:system/lib/libframesequence.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libgames_rtmp_jni.so:system/lib/libgames_rtmp.jni.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libgcam.so:system/lib/libgcam.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libgcam_swig_jni.so:system/lib/libgcam_swig_jni.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libgcastv2_base.so:system/lib/libgcastv2_base.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libgcastv2_support.so:system/lib/libgcastv2_support.so:google_apps \
-    vendor/google_apps/proprietary/system/lib/libgiftranscode.so:system/lib/libgiftranscode.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libgmscore.so:system/lib/libgmscore.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libgms-ocrclient.so:system/lib/libgms-ocrclient.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libgoogle_hotword_jni.so:system/lib/libgoogle_hotword_jni.so:google_apps \
@@ -58,7 +37,6 @@ PRODUCT_COPY_FILES += \
     vendor/google_apps/proprietary/system/lib/libjpeg.so:system/lib/libjpeg.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libleveldbjni.so:system/lib/libleveldbjni.so:google_apps \
     vendor/google_apps/proprietary/system/lib/liblightcycle.so:system/lib/liblightcycle.so:google_apps \
-    vendor/google_apps/proprietary/system/lib/libmoviemaker-jni.so:system/lib/libmoviemaker-jni.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libnativehelper_compat_libc++.so:system/lib/libnativehelper_compat_libc++.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libNearbyApp.so:system/lib/libNearbyApp.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libpatts_engine_jni_api.so:system/lib/libpatts_engine_jni_api.so:google_apps \
@@ -122,11 +100,8 @@ PRODUCT_PACKAGES += \
     FaceLock \
     GoogleCalendar \
     GoogleCamera \
-    GoogleChrome \
     GoogleContactsSyncAdapter \
     GoogleHome \
-    GoogleMusic \
-    GooglePhotos \
     QuickOffice \
     GmsCore \
     GoogleBackupTransport \
