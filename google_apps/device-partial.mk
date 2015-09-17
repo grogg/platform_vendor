@@ -40,6 +40,7 @@ PRODUCT_COPY_FILES += \
     vendor/google_apps/proprietary/system/lib/liblightcycle.so:system/lib/liblightcycle.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libnativehelper_compat_libc++.so:system/lib/libnativehelper_compat_libc++.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libNearbyApp.so:system/lib/libNearbyApp.so:google_apps \
+    vendor/google_apps/proprietary/system/lib/liboffline_actions_jni.so:system/lib/liboffline_actions_jni.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libpatts_engine_jni_api.so:system/lib/libpatts_engine_jni_api.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libpatts_engine_jni_api_ub.210303120.so:system/lib/libpatts_engine_jni_api_ub.210303120.so:google_apps \
     vendor/google_apps/proprietary/system/lib/libpatts_engine_jni_api_ub.210303130.so:system/lib/libpatts_engine_jni_api_ub.210303130.so:google_apps \
