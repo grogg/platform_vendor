@@ -100,11 +100,9 @@ PRODUCT_PACKAGES += \
     ConfigUpdater \
     Exchange3Google \
     FaceLock \
-    GoogleCalendar \
     GoogleCamera \
     GoogleContactsSyncAdapter \
     GoogleHome \
-    QuickOffice \
     GmsCore \
     GoogleBackupTransport \
     GoogleFeedback \
