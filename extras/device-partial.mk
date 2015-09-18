@@ -7,7 +7,6 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     AdAway \
-    XDA-One \
     Sound_Recorder \
     MiXplorer
 
